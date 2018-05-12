@@ -1,0 +1,43 @@
+_repo: De-la-d-monialit--des-animaux-incubes-et-succubes_43686
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Liseux, Isidore
+    alias: Liseaux, Isidore
+    birthdate: 1835
+    deathdate: 1894
+    gutenberg_agent_id: '40737'
+    url: http://www.gutenberg.org/2009/agents/40737
+covers:
+- cover_type: archival
+  image_path: 43686-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sinistrari, Ludovico Maria
+    aliases:
+    - D'Ameno, Louis Marie Sinistrari
+    - Sinistrarius, Ludovicus Maria
+    - Ameno, Ludovicis Maria de
+    - Sinistrari, Lodovico Maria
+    - Sinistrari, Luigi Maria
+    - D'Ameno, Lodovico Maria
+    - De Ameno, Ludovicus Maria
+    birthdate: 1622
+    deathdate: 1701
+    gutenberg_agent_id: '42364'
+    url: http://www.gutenberg.org/2009/agents/42364
+description: ''
+gutenberg_bookshelf: FR Occultisme
+gutenberg_issued: '2013-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43686'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Demonology'
+- !lcc 'BF'
+title: De la démonialité des animaux incubes et succubes
+url: http://www.gutenberg.org/ebooks/43686
